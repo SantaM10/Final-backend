@@ -46,7 +46,7 @@ body {
   }
   
   input[type="submit"]:hover {
-    background-color: #45a049;
+    background-color: #4577a0;
   }
   
   input:required, select:required {
